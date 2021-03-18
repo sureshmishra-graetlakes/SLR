@@ -1,0 +1,2 @@
+# SLR
+Superwise linear regression
